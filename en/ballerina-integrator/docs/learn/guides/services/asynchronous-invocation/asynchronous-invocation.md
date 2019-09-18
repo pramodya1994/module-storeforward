@@ -1,5 +1,7 @@
 ---
 title: Asynchronous Invocations
+commitHash: 4baa0fa91d8ad9c7737fc52fc11cceff4aeedccc
+note: This is an auto-generated file do not edit this, You can edit content in "ballerina-integrator" repo
 ---
 
 [Asynchronous invocations](https://en.wikipedia.org/wiki/Asynchronous_method_invocation) or the asynchronous pattern is a design pattern in which the call site is not blocked while waiting for the code invoked to finish. Instead, the calling thread can use the result when the reply arrives.

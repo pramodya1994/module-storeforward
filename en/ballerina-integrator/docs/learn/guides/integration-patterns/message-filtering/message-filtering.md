@@ -1,5 +1,7 @@
 ---
 title: Message-Filtering
+commitHash: 4baa0fa91d8ad9c7737fc52fc11cceff4aeedccc
+note: This is an auto-generated file do not edit this, You can edit content in "ballerina-integrator" repo
 ---
 
 The Message Filter checks an incoming message against certain criteria that the message should adhere to. If the criteria is not met, the filter will discard the message. Otherwise, it will route the message to the output channel.

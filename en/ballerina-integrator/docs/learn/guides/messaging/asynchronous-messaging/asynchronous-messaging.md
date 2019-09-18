@@ -1,5 +1,7 @@
 ---
 title: Asynchronous Messaging
+commitHash: 4baa0fa91d8ad9c7737fc52fc11cceff4aeedccc
+note: This is an auto-generated file do not edit this, You can edit content in "ballerina-integrator" repo
 ---
 
 This guide demonstrates how to send a message asynchronously to an HTTP service. It uses ActiveMQ as the message broker to make the invocation asynchronous. 
@@ -24,9 +26,7 @@ Here, the message is forwarded to ActiveMQ broker. If the message is sent withou
 
 The following diagram illustrates the scenario:
 
-![alt text](https://raw.githubusercontent.com/pramodya1994/ballerina-integrator/hugo-site/examples/guides/messaging/asynchronous-messaging/resources/Asynchronous_service_invocation.png)
-
-
+![alt text](../../../../assets/img/asynchronous_service_invocation.png)
 
 ## Prerequisites
 - [Ballerina Distribution](https://ballerina.io/learn/getting-started/)

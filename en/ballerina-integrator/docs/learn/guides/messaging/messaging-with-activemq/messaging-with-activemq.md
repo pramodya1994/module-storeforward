@@ -1,5 +1,7 @@
 ---
 title: Messaging with ActiveMQ
+commitHash: 4baa0fa91d8ad9c7737fc52fc11cceff4aeedccc
+note: This is an auto-generated file do not edit this, You can edit content in "ballerina-integrator" repo
 ---
 
 This guide demonstrates how to use ActiveMQ as the message broker for messaging in Ballerina.
@@ -27,7 +29,7 @@ As the sample scenario let’s consider a real-world use case of an online order
 
 The following diagram illustrates the scenario:
 
-![alt text](resources/messaging-with-activemq.svg)
+![alt text](../../../../assets/img/messaging_with_activemq.svg)
 
 ## Prerequisites
 - [Ballerina Distribution](https://ballerina.io/learn/getting-started/)

@@ -1,5 +1,7 @@
 ---
 title: Pass-through messaging
+commitHash: 4baa0fa91d8ad9c7737fc52fc11cceff4aeedccc
+note: This is an auto-generated file do not edit this, You can edit content in "ballerina-integrator" repo
 ---
 
 There are different ways of messaging methods in SOA (Service Oriented Architecture). In this guide, we are focusing on pass-through Messaging between services using an example scenario.

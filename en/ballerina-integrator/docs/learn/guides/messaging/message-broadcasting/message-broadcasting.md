@@ -1,5 +1,7 @@
 ---
 title: Message broadcasting using topics
+commitHash: 4baa0fa91d8ad9c7737fc52fc11cceff4aeedccc
+note: This is an auto-generated file do not edit this, You can edit content in "ballerina-integrator" repo
 ---
 
 This guide is about broadcasting a message to several individual services in an asynchronous manner. In this example, the messages are published to a `Topic` in a message broker and there are services subscribed to that topic. Same copy of the message is received by each service and processed individually by each service. The message in fact is broadcasted to the services. 
@@ -32,7 +34,7 @@ and it also will log the message.
 
 The following diagram illustrates the scenario:
 
-![alt text](resources/message_broadcasting_guide.svg)
+![alt text](../../../../assets/img/message_broadcasting_guide.svg)
 
 ## Prerequisites
 - [Ballerina Distribution](https://ballerina.io/learn/getting-started/)

@@ -1,5 +1,7 @@
 ---
 title: Hello Service Guide
+commitHash: 4baa0fa91d8ad9c7737fc52fc11cceff4aeedccc
+note: This is an auto-generated file do not edit this, You can edit content in "ballerina-integrator" repo
 ---
 
 In this example, we are going to send a message input to a service which will output as an enhanced greeting. 

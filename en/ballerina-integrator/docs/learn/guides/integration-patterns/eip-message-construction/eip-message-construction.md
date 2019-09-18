@@ -1,5 +1,7 @@
 ---
 title: Message Construction Patterns
+commitHash: 4baa0fa91d8ad9c7737fc52fc11cceff4aeedccc
+note: This is an auto-generated file do not edit this, You can edit content in "ballerina-integrator" repo
 ---
 
 Message construction patterns describe the various forms of message content that travel across messaging systems. Message construction involves the architectural patterns of various constructs, functions, and activities involved in creating and transforming a message between applications.
